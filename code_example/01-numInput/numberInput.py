@@ -1,7 +1,8 @@
 # first program in python
 # input two numbers, add them together, print them out
 # wfp, 9/1/07; rje, 5/14/12
-# hi mom
+# +1s
+# -1s
 # +1s
 
 num_str1 = input('Please enter an integer:')  # hi mom
