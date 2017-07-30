@@ -6,7 +6,7 @@
 # - T/F compares
 # - var names
 # - str compares
-
+# 真假判定
 a_bool,b_bool = True, False
 c_int,d_int = 3, 8
 e_str,f_str = 'z', '5'
