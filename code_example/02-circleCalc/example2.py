@@ -1,6 +1,7 @@
 # wfp, 5/30/07, wfp: updated 9/5/11; rje 5/14/12
 # prompt user for the radius, give back the circumference and area
-
+#readed
+#调用math 然后进行周长面积计算
 import math
 
 radius_str = input("Enter the radius of your circle:")
