@@ -1,6 +1,7 @@
 # example3.py, wfp, 5/3/07. wfp 9/5/11 updated names
 # some simple examples of number manipulations
 # wfp, 1/3/13, to py3
+#一些定义好数值的加减乘除 除号相对注意 
 
 import math
 
