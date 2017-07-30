@@ -1,7 +1,7 @@
 # rje, 5/07, example 5
 # list the words in Windows Haiku
 # rje, Python 3
-
+# 进行一些文本更改
 import os
 haiku = ''
 fp = open("Haiku.txt")
